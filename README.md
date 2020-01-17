@@ -1,2 +1,2 @@
 # Computer-Graphics
-Computer Graphics project using OpenG
+Computer Graphics project using OpenGL.
