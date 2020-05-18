@@ -1,2 +1,2 @@
 # Computer-Graphics
-Computer Graphics project using C,C++ (Ope)
+Computer Graphics project using C,C++ (Op)
