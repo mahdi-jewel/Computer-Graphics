@@ -1,2 +1,2 @@
 # Computer-Graphics
-Computer Graphics project using C,C++ (OpenG)
+Computer Graphics project using C,C++ (Open)
