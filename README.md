@@ -1,2 +1,2 @@
 # Computer-Graphics
-Computer Graphics project using C,C++ (OpenGL)j
+Computer Graphics project using C,C++ (OpenGL)jw
